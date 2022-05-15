@@ -1,9 +1,7 @@
 # React Testing Techniques
 
 This project demonstrates best practices in testing React applications by
-implementing a realistic online shopping application. It is also the repository
-for my Medium article titled
-[React Testing Techniques](https://medium.com/engineered-publicis-sapient/react-testing-techniques-d97e9dd8f081).
+implementing a realistic online shopping application.
 
 P.S. If you find this project useful, please show your appreciation by starring
 this repository.
